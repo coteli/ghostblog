@@ -12,7 +12,7 @@ export const defaultPage: ContactPage = {
   url: '/contact',
   title: 'İletişime Geçin',
   custom_excerpt: 'Görüş, öneri veya sorularınız için bizimle iletişime geçebilirsiniz!',
-  form_topics: ['Görüş ve önerim var!', 'Soru sormak istiyorum!'],
+  form_topics: ['Bireysel Başvuru!', 'Kurumsal Başvuru!'],
   meta_title: 'Contact Us',
   meta_description: 'A contact form page.',
   html: '',
